@@ -1,6 +1,6 @@
 {
     "name": "plop-helper-list",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "💧 plop helper list",
     "keywords": [
         "plop",
@@ -9,7 +9,7 @@
         "helper",
         "list"
     ],
-    "homepage": "https://www.npmjs.com/package/plop-helper-list",
+    "homepage": "https://npmjs.com/package/plop-helper-list",
     "bugs": {
         "url": "https://github.com/bradgarropy/plop-helper-list/issues"
     },
